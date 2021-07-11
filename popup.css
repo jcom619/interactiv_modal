@@ -20,8 +20,8 @@ h1 {
 
 .button {
    font-family: Helvetica, Arial, sans-serif;
-   z-index: 20000;
-   font-size: 13px;
+  
+   font-size: 3vw;
    width: 100px;
    height: 100px;
    border-radius: 50%;

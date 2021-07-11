@@ -22,10 +22,11 @@ h1 {
    font-family: Helvetica, Arial, sans-serif;
    z-index: 20000;
    font-size: 13px;
-   padding: 5px 10px;
-   border-radius: 5px;
+   width: 100px;
+   height: 100px;
+   border-radius: 50%;
    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
-   color: #666;
+   color: rgba(255,255,255,0.7);
    text-decoration: none;
    text-shadow: 0 1px 0 #fff;
    cursor: none;

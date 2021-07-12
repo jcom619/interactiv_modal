@@ -14,7 +14,9 @@
    cursor: url("https://cdn.glitch.com/3679e0c3-608c-42fe-ac73-38af7fe51ccb%2Fconnect.ico?v=1625117141710")24 24 , none;
 }
 
-
+* {
+   text-shadow: 0 0 1px white, 1px 1px 2.5px black;
+}
 
 
 /* *,*:before,*:after{
@@ -32,9 +34,7 @@
    height: 100vh;
    font-family:DIN, skia, helvetica, sanns-serif;
  } */
- .fa {
-   text-shadow: 0 0 1px white, 1px 1px 2.5px black;
- }
+
  iframe {
    height: 80vh;
    width: 100vw;

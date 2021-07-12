@@ -32,6 +32,9 @@
    height: 100vh;
    font-family:DIN, skia, helvetica, sanns-serif;
  } */
+ .fa {
+   text-shadow: 0 0 2px white, 1px 1px 4px black;
+ }
  iframe {
    height: 80vh;
    width: 100vw;

@@ -34,10 +34,10 @@ h1 {
         https://cdn.glitch.com/745f9a59-9ec4-49ad-b0eb-487b57bda865%2Fdotty_arrow.ico?v=1625381183467
       )16 16,
     none;
-   text-shadow: 1px 1px 3px #black;
+   text-shadow: 1px 1px 3px black;
    background: rgba(233,233,233,0.3);
    border: 2 px solid white;
-   box-shadow: 0 0 30px 1px rgba(0, 0, 0, 0.95);
+   box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.95);
    transition: all 0.2s ease-out;
 }
 

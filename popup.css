@@ -2,8 +2,8 @@
 h1 {
    text-align: center;
    font-family: "Trebuchet MS", Tahoma, Arial, sans-serif;
-   /* color: rgb(192, 113, 113); */
-   text-shadow: 0 1px 0 #fff;
+   color: rgb(192, 113, 113);
+   text-shadow: 1px 1px 3px #fff;
 }
 
 #wrapper {
@@ -15,7 +15,8 @@ h1 {
    margin-bottom: -100%;
    border-radius: 10px;
    background-clip: padding-box;
-   text-align: center
+   text-align: center;
+      
 }
 
 .button {
@@ -26,14 +27,15 @@ h1 {
    width: 50px;
 /*    height: 80px; */
    border-radius: 50%;
-   box-shadow: 0 0 30px 1px rgba(0, 0, 0, 0.15);
    color: rgba(255,255,255,0.7);
    text-decoration: none;
    text-shadow: 0 1px 3px #fff;
    cursor: none;
    text-shadow: 1px 1px 3px #fff;
-   background: red;
-   transition: all 0.2s ease-out
+   background: rgba(233,233,233,0.3);
+   border: 2 px solid white;
+   box-shadow: 0 0 30px 1px rgba(0, 0, 0, 0.15);
+   transition: all 0.2s ease-out;
 }
 
 .button:hover {

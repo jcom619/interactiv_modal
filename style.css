@@ -33,7 +33,7 @@
    font-family:DIN, skia, helvetica, sanns-serif;
  } */
  .fa {
-   text-shadow: 0 0 2px white, 1px 1px 4px black;
+   text-shadow: 0 0 1px white, 1px 1px 2.5px black;
  }
  iframe {
    height: 80vh;

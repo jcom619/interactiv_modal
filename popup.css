@@ -29,18 +29,12 @@ h1 {
    border-radius: 50%;
    color: rgba(255,255,255,0.7);
    text-decoration: none;
-   cursor:  cursor: url(
-        https://cdn.glitch.com/745f9a59-9ec4-49ad-b0eb-487b57bda865%2Fdotty_arrow.ico?v=1625381183467
-      )16 16,
-    none;
-   text-shadow: 1px 1px 2px black, 0 0 1.5px white,0 0 4px black;
-   background: rgba(233,233,233,0.53);
+   text-shadow: 0 1px 3px #fff;
+   cursor: none;
+   text-shadow: 1px 1px 3px #fff;
+   background: rgba(233,233,233,0.3);
    border: 2 px solid white;
-   box-shadow: 
-      0 0 8px 1px rgba(0, 0, 0, 0.5),
-      0 0 2px 1px white,
-      inset 0 0 1px 1px white,
-      inset0 0 8px 1px rgba(0, 0, 0, 0.5);
+   box-shadow: 0 0 30px 1px rgba(0, 0, 0, 0.15);
    transition: all 0.2s ease-out;
 }
 
